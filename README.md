@@ -95,7 +95,7 @@ Posteriormente, se realizó un análisis exploratorio y descriptivo para entende
      
    - Mediante el uso de diversos tipos de gráficos, se identificó un segmento de alto riesgo de abandono (Churn), localizando este segmento en la facturación mensual entre $70 y $100 USD.
    
-   - Se analizó la composición de los servicios de teléfono e internet para los clientes dentro de este rango, diferenciando entre clientes que se quedaron (No Churn) y los que se fueron (Yes Churn). También se determinó la cantidad y proporción de clientes Churn en este segmento y su relación con el servicio de Fibra Óptica. Además, se caracterizaron los servicios adicionales de internet contratados por los clientes Churn.
+   - Se analizó la composición de los servicios de teléfono e internet para los clientes dentro de este rango, diferenciando entre clientes que se quedaron (No Churn) y los que se fueron (Yes Churn). También se calculó la cantidad y proporción de clientes Churn en este segmento y su relación con el servicio de Fibra Óptica. Además, se caracterizaron los servicios adicionales de internet contratados por los clientes Churn.
      
    - Se exploran las relaciones entre las variables numéricas y el Churn utilizando un gráfico pairplot.
      
